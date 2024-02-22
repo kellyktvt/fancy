@@ -2,6 +2,9 @@
 
 Fancy is a wishlist application that allows you to create and share wishlists with your family and friends. The application hopes to improve on organization and communication issues that can occur when it comes to gift-giving. No more having to keep multiple tabs of the things you want, texting people links that they have to keep track of, and wondering what to buy someone else. With Fancy, you will be able to create an account to store your wants in one place and share them too. When adding an item, besides having the option to add a url, you will be able to give the item a name, picture, and price so that people are able to see the important details of the item without having to load up the link. You can group your wants into lists/categories that you name to help keep the items organized. Friends and family members can be added to your friends list so that you are able to see each other’s wishlists. The app helps to streamline the gift-giving process by allowing your friends and family to “claim” items that they want to give to you so that people are not buying you the same things. You will not be able to see which items have been claimed, but everyone else who has access to your lists will. This is to ensure that there is still somewhat of the element of surprise that many people hope to have when gifting something. If someone wants to get you something that is a complete surprise instead of something off of your wishlist, Fancy can still be of use to them as they can refer to your wishlist for gift inspiration. So, what do you Fancy?
 
+## Mockup
+<img src="mockup.png">
+
 ## Features
 - Firebase Authentication login/register path
 - Realtime Database user data storage
