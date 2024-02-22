@@ -13,6 +13,11 @@ class BaseViewController: UIViewController {
         super.viewDidLoad()
         applyDarkModeAppearance()
     }
+
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        applyDarkModeAppearance()
+    }
     
     @IBAction func darkModeSwitchChanged(_ sender: UISwitch) {
         // Save dark mode setting to UserDefaults
