@@ -34,6 +34,7 @@ This is the mockup that I designed prior to the development of my app. Some chan
 - View Controllers include: collection view, tab view controller
 
 ## Requirements
+- Simulator: iPhone 14 Pro
 - Swift 5
 - Xcode 14.3.1
 - Packages: Firebase
