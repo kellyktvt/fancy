@@ -9,10 +9,10 @@ Fancy is a wishlist application that allows you to create and share wishlists wi
     <td> Friends </td>
     <td> Settings </td>
   <tr>
-    <td> <img src="login.gif"> </td>
-    <td> <img src="home.gif"> </td>
-    <td> <img src="friends.gif"> </td>
-    <td> <img src="settings.gif"> </td>
+    <td> <img src="login.gif" height=300px> </td>
+    <td> <img src="home.gif" height=300px> </td>
+    <td> <img src="friends.gif" height=300px> </td>
+    <td> <img src="settings.gif" height=300px> </td>
   </tr>
 </table>
 
